@@ -84,3 +84,29 @@
 2020-04-17/20:51:32		Deleting Good Data Folder!!!
 2020-04-17/20:51:32		Good_Data folder deleted!!!
 2020-04-17/20:51:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-16/20:12:03		Start of Validation on files for prediction!!
+2023-05-16/20:12:03		Raw Data Validation Complete!!
+2023-05-16/20:12:03		Starting Data Transforamtion!!
+2023-05-16/20:12:04		DataTransformation Completed!!!
+2023-05-16/20:12:04		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-16/20:12:04		Table creation Completed!!
+2023-05-16/20:12:04		Insertion of Data into Table started!!!!
+2023-05-16/20:12:36		Insertion in Table completed!!!
+2023-05-16/20:12:36		Deleting Good Data Folder!!!
+2023-05-16/20:12:36		Good_Data folder deleted!!!
+2023-05-16/20:12:36		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-16/20:12:36		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-16/20:12:36		Validation Operation completed!!
+2023-05-16/20:12:36		Extracting csv file from table
+2023-05-16/20:12:36		Start of Prediction
+2023-05-16/20:12:36		Entered the get_data method of the Data_Getter class
+2023-05-16/20:12:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-05-16/20:12:36		Entered the is_null_present method of the Preprocessor class
+2023-05-16/20:12:36		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-05-16/20:12:36		Entered the load_model method of the File_Operation class
+2023-05-16/20:12:36		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-05-16/20:12:36		Entered the find_correct_model_file method of the File_Operation class
+2023-05-16/20:12:36		Exited the find_correct_model_file method of the Model_Finder class.
+2023-05-16/20:12:36		Entered the load_model method of the File_Operation class
+2023-05-16/20:12:36		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2023-05-16/20:12:37		End of Prediction
