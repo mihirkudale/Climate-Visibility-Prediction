@@ -9,6 +9,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/climate-visibility-prediction.git
+
 Install the required dependencies:
 Copy code
 pip install -r requirements.txt
