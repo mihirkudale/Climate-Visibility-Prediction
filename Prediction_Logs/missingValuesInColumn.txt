@@ -7,3 +7,7 @@
 2020-04-17/20:22:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
 2023-05-16/20:12:03		Missing Values Validation Started!!
 2023-05-16/20:12:03		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2023-05-16/21:29:23		Missing Values Validation Started!!
+2023-05-16/21:29:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2023-05-16/21:44:32		Missing Values Validation Started!!
+2023-05-16/21:44:32		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv

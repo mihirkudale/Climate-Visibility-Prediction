@@ -16,3 +16,13 @@
 2023-05-16/20:12:03		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
 2023-05-16/20:12:03		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
 2023-05-16/20:12:03		Invalid File Name!! File moved to Bad Raw Folder :: visibility_082019_120021.csv
+2023-05-16/21:29:23		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2023-05-16/21:29:23		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2023-05-16/21:29:23		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2023-05-16/21:29:23		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2023-05-16/21:29:23		Invalid File Name!! File moved to Bad Raw Folder :: visibility_082019_120021.csv
+2023-05-16/21:44:32		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2023-05-16/21:44:32		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2023-05-16/21:44:32		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2023-05-16/21:44:32		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2023-05-16/21:44:32		Invalid File Name!! File moved to Bad Raw Folder :: visibility_082019_120021.csv
